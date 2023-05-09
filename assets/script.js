@@ -58,7 +58,7 @@ function handleDots(index) {
         } else {
             dot.classList.remove("dot_selected");
         }
-        /*i === index ? dot.classList.add("dot_selected") : dot.classList.remove("dot_selected");*/
+        /*i === index ? dot.classList.add("dot_selected")) : dot.classList.remove("dot_selected");*/
     })
 }
 
